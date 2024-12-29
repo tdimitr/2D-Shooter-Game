@@ -1,4 +1,4 @@
-# 2D Shooter Game - Unity
+# 2D Shooter Game
 
 Welcome to a 2D shooter game, where you step into the boots of a brave soldier 🪖, fighting to survive and conquer in a chaotic battlefield! 
 
