@@ -47,6 +47,7 @@ Welcome to a 2D shooter game, where you step into the boots of a brave soldier ð
 1. Clone the repository:  
    ```bash
    git clone https://github.com/tdimitr/2D-Shooter-Game.git
+2. Run the `2D Shooter War Theme.exe` file to start the game.
 
 ---
 
