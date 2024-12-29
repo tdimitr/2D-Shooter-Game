@@ -13,7 +13,7 @@ Welcome to a 2D shooter game, where you step into the boots of a brave soldier �
   **Rifle** – A trusty weapon to take down enemies.  
 
 - 🪖 **Level**:  
-  -  One level with three enemies to defeat.  
+  -  One level with two enemies to defeat.  
   -  Win by eliminating all enemies!
 
 ---
@@ -37,9 +37,10 @@ Welcome to a 2D shooter game, where you step into the boots of a brave soldier �
 
 
 # 🕹️ How to Play
-1. Move: Use W-A-S-D to control your soldier. 
-2. Attack: Aim and shoot at enemies. 
-3. Win: Defeat all three enemies to complete the level! 
+1. **Move**: Use **W-A-S-D** to control your soldier.  
+2. **Attack**: Press the **Spacebar** to shoot bullets.
+3. **Win**: Defeat both enemies to complete the level!
+
 
 ---
 
