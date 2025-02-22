@@ -5,7 +5,7 @@ Welcome to a 2D shooter game, where you step into the boots of a brave soldier �
 ![2D Shooter Game](Screenshot.png)
 
 
-## 🚀 Game Features
+## Game Features
 
 ### ✅ Currently Available
 - 🎮 **Smooth Controls**: Navigate the soldier with **W-A-S-D**   
@@ -18,18 +18,18 @@ Welcome to a 2D shooter game, where you step into the boots of a brave soldier �
 
 
 
-## 🔧 Planned Features
+## Planned Features
 
-### 🗡 **Weapons**
+### **Weapons**
 -  **Knife** – For stealth kills, perfect for sneaky gameplay.  
 -  **Pistol** – Ideal for close combat encounters.  
 -  **Sniper** – Precision weapon for long-range eliminations.  
 
-### 🌍 **Level Expansion**
+### **Level Expansion**
 -  Add **10 diverse levels** with increasing challenges.  
 -  Introduce resources like **food**, **water**, and **first aid kits** for survival.  
 
-### 🎭 **Dynamic Storyline**
+### **Dynamic Storyline**
 -  Introduce **NPCs** and dialogues for immersive interactions.  
 -  Create a system where **choices determine allies or enemies**.  
 
