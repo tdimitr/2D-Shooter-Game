@@ -52,6 +52,3 @@ Welcome to a 2D shooter game, where you step into the boots of a brave soldier �
 2. Run the `2D Shooter War Theme.exe` file to start the game.
 
 
-
-## 🛡️ License
-This project is licensed under the MIT License. 
