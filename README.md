@@ -6,13 +6,11 @@ Welcome to a 2D shooter game, where you step into the boots of a brave soldier �
 
 
 ## Game Features
-
-### Currently Available
 - 🎮 **Smooth Controls**: Navigate the soldier with **W-A-S-D**   
 - 🔫 **Weapons**:  
   **Rifle** – A trusty weapon to take down enemies.  
 
-- 🪖 **Levels**:  
+- **Levels**:  
   -  One level with two enemies to defeat.  
   -  Win by eliminating both enemies.
 
