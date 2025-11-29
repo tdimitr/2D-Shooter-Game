@@ -14,7 +14,7 @@ Welcome to a 2D shooter game, where you step into the boots of a brave soldier �
   -  One level with two enemies to defeat.  
   -  Win by eliminating both enemies.
 
-# 🕹️ How to Play
+# How to Play
 1. **Move**: Use **W-A-S-D** to control the soldier.  
 2. **Attack**: Press the **Spacebar** to shoot bullets.
 3. **Win**: Defeat both enemies to complete the level
