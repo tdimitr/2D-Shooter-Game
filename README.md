@@ -6,8 +6,8 @@ Welcome to a 2D shooter game, where you step into the boots of a brave soldier �
 
 
 ## Game Features
-- 🎮 **Smooth Controls**: Navigate the soldier with **W-A-S-D**   
-- 🔫 **Weapons**:  
+- **Smooth Controls**: Navigate the soldier with **W-A-S-D**   
+- **Weapons**:  
   **Rifle** – A trusty weapon to take down enemies.  
 
 - **Levels**:  
@@ -17,10 +17,10 @@ Welcome to a 2D shooter game, where you step into the boots of a brave soldier �
 # 🕹️ How to Play
 1. **Move**: Use **W-A-S-D** to control the soldier.  
 2. **Attack**: Press the **Spacebar** to shoot bullets.
-3. **Win**: Defeat both enemies to complete the level!
+3. **Win**: Defeat both enemies to complete the level
 
 
-## 🖥️ Installation
+## Installation
 
 1. Clone the repository:  
    ```bash
